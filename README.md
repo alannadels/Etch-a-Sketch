@@ -5,7 +5,7 @@
 
 <h2>🧐 Features</h2>
 
-Here're some of the project's best features:
+Some of the project's best features:
 
 *   Learn to use turtle module
 *   Practice functions in Python
